@@ -229,12 +229,5 @@ GitHub: [Kushal57169](https://github.com/Kushal57169)
 
 ---
 
-# 🙏 Acknowledgement
-
-This repository is maintained as a customized portfolio/development version of the College ERP project originally published by **WEBTECHFLY**.
-
-The original project attribution is retained for transparency.
-
----
 
 ⭐ **Smart Campus Management System — Developed and maintained by Kushal Sharma**
